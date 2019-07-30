@@ -35,19 +35,6 @@ info@kodluyoruz.org
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Kodluyoruz ile ilgili detaylara;
 
 * http://Kodluyoruz.Org/
