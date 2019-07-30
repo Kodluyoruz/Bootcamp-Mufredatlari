@@ -1,1 +1,1 @@
-# Bootcamp-erikleri
+# Bootcamp Mufredat
