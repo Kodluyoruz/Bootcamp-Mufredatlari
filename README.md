@@ -23,7 +23,7 @@ info@kodluyoruz.org
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/react-redux-course)
 
 ## .NET Core Bootcamp
-[Bootcamp'i İncele](https://github.com/Kodluyoruz/dotnet-core-mvc-web-api-course)
+[Bootcamp'i İncele](https://github.com/asafgunay/dotnet-core-kodluyoruz-2019-2/)
 
 ## React Native Bootcamp
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/react-native-egitimi)
