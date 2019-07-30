@@ -17,7 +17,7 @@ info@kodluyoruz.org
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/Kotlin-Android-Bootcamp)
 
 ## Python & Makine Öğrenmesine Giriş Bootcamp
-[Bootcamp'i İncele](https://www.kodluyoruz.org/istanbul-python-mayis2019/)
+[Bootcamp'i İncele](https://github.com/fuatbeser/python-programlamaya-giris)
 
 ## React Bootcamp
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/react-redux-course)
