@@ -1,3 +1,10 @@
+# <img src="bg_akademi.png" alt="https://www.kodluyoruz.org/" class="logo"/> 
+
+Kodluyoruz Akademi, bilişim sektöründe kariyer hedefleyen gençlerin iş bulma süreçlerini desteklemek üzere hayata geçirdiği hızlandırılmış yazılım eğitimi programıdır. Bootcamp’lerimizde, azimli, çalışkan, teknoloji sektöründe bir kariyer hedefleyen yetenekli gençleri geleceğin yazılımcıları olmaları için destekliyoruz. Programdan mezun olan gençler, hayat boyu Mezunlar Kulübü’müze üye oluyor ve kendileri gibi pek çok gençle bir araya geliyor.
+
+### İletişim İçin;
+info@kodluyoruz.org
+
 # Bootcamp Mufredat
 
 ## Python & Django for Web Development Bootcamp
