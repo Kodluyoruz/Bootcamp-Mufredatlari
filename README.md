@@ -30,3 +30,33 @@ info@kodluyoruz.org
 
 ## ASP.NET MVC Bootcamp
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/aspnet-mvc-course)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Kodluyoruz ile ilgili detaylara;
+
+* http://Kodluyoruz.Org/
+* http://KodluyoruzAkademi.Com/
+* https://www.fb.Com/KodluyoruzTR/
+
+adreslerinden ulaşabilirsiniz...
+
+
+* Yardıma ihtiyacın mı var?
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kodluyoruz-ORG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+        * Odada aktif olarak kimse bulunmasa bile, siz sorunuzu sorun. Odaya bir sonraki girişimizde, sorunuzu görebiliriz ve cevaplandırabiliriz.
