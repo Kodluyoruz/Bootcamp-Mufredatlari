@@ -32,7 +32,7 @@ info@kodluyoruz.org
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/aspnet-mvc-course)
 
 ## Temel Java Bootcamp 
-[Bootcamp'i İncele](https://github.com/Kodluyoruz/aspnet-mvc-course)
+[Bootcamp'i İncele](https://github.com/Kodluyoruz/Temel-Java-Bootcamp)
 
 
 ### Kodluyoruz ile ilgili detaylara;
