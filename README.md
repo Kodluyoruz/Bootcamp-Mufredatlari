@@ -39,7 +39,7 @@ info@kodluyoruz.org
 
 * http://kodluyoruz.org/
 * https://linkedin.com/company/kodluyoruz
-* https:/facebook.vom/kodluyoruztr/
+* https:/facebook.com/kodluyoruztr/
 * https://twitter.com/kodluyoruz/
 * https://instagram.com/kodluyoruz/
 
