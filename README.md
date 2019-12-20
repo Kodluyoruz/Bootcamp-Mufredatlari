@@ -17,13 +17,13 @@ info@kodluyoruz.org
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/Kotlin-Android-Bootcamp)
 
 ## Python & Makine Öğrenmesine Giriş Bootcamp
-[Bootcamp'i İncele](https://github.com/fuatbeser/python-programlamaya-giris)
+[Bootcamp'i İncele](https://github.com/Kodluyoruz/python-programlamaya-giris)
 
 ## React Bootcamp
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/react-redux-course)
 
 ## .NET Core Bootcamp
-[Bootcamp'i İncele](https://github.com/asafgunay/dotnet-core-kodluyoruz-2019-2/)
+[Bootcamp'i İncele](https://github.com/Kodluyoruz/dotnet-core-kodluyoruz-2019-2/)
 
 ## React Native Bootcamp
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/react-native-egitimi)
@@ -37,13 +37,10 @@ info@kodluyoruz.org
 
 ### Kodluyoruz ile ilgili detaylara;
 
-* http://Kodluyoruz.Org/
-* http://KodluyoruzAkademi.Com/
-* https://www.fb.Com/KodluyoruzTR/
+* http://kodluyoruz.org/
+* https://linkedin.com/company/kodluyoruz
+* https:/facebook.vom/kodluyoruztr/
+* https://twitter.com/kodluyoruz/
+* https://instagram.com/kodluyoruz/
 
 adreslerinden ulaşabilirsiniz...
-
-
-* Yardıma ihtiyacın mı var?
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Kodluyoruz-ORG/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * Odada aktif olarak kimse bulunmasa bile, siz sorunuzu sorun. Odaya bir sonraki girişimizde, sorunuzu görebiliriz ve cevaplandırabiliriz.
