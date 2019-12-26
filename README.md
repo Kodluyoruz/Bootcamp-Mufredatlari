@@ -7,6 +7,9 @@ info@kodluyoruz.org
 
 # Bootcamp Mufredat
 
+## İstanbul Uygulamalı Veri Bilimi Bootcamp
+[Bootcamp'i İncele](https://github.com/Kodluyoruz/Istanbul-Uygulamali-Veri-Bilimi)
+
 ## Front-End Web Development Bootcamp
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/Front-End-Web-Development-Bootcamp)
 
