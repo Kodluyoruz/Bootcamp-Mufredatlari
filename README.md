@@ -45,8 +45,8 @@ info@kodluyoruz.org
 ## Temel Java Bootcamp 
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/Temel-Java-Bootcamp)
 
-## İstanbul Java Bootcamp
-[Bootcamp'i İncele](https://github.com/Kodluyoruz/Istanbul-Java-Bootcamp.git)
+## İstanbul Java 101 Bootcamp
+[Bootcamp'i İncele](https://github.com/Kodluyoruz/Istanbul-Java-101-Bootcamp)
 
 ### Kodluyoruz ile ilgili detaylara;
 
