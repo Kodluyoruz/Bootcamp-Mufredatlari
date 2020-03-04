@@ -8,7 +8,7 @@ info@kodluyoruz.org
 # Bootcamp Mufredat
 
 ## İstanbul C# .NET Core ile MVC Bootcamp
-[Bootcamp'i İncele] (https://github.com/Kodluyoruz/c-netcoremvc-course)
+[Bootcamp'i İncele](https://github.com/Kodluyoruz/c-netcoremvc-course)
 
 ## İstanbul Uygulamalı Veri Bilimi Bootcamp
 [Bootcamp'i İncele](https://github.com/Kodluyoruz/Istanbul-Uygulamali-Veri-Bilimi)
